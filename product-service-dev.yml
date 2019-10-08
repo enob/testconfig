@@ -17,4 +17,4 @@ spring:
     sampler:
       probability: 1
 
-env:test
+env: test
